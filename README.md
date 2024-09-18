@@ -1,1 +1,1 @@
-# C-Practicas-reales
+El proposito del repositorio es mejorar tu logica y la manera de implementar soluciones por lo tanto cada reto de aqui es un reto real,incluso hay situaciones que suelen presentarse en entrevistas para un puesto como desarrollador
